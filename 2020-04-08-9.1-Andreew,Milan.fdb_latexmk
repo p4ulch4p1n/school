@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1587449497 "2020-04-08-9.1-Andreew,Milan.tex" "2020-04-08-9.1-Andreew,Milan.pdf" "2020-04-08-9.1-Andreew,Milan" 1587449498
+["pdflatex"] 1587450150 "2020-04-08-9.1-Andreew,Milan.tex" "2020-04-08-9.1-Andreew,Milan.pdf" "2020-04-08-9.1-Andreew,Milan" 1587450151
   "/etc/texmf/web2c/texmf.cnf" 1578632949 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1480098698 1004 54797486969f23fa377b128694d548df ""
@@ -178,9 +178,9 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1551493644 34566 ab5be96bde1a5acfd4f881dbe566b5fb ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1578632972 166660 9a910ec7f918f6bac606c1d612f7ecd0 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1578632977 881570 1c9817f13a290addf50e3ecd5b019072 ""
-  "2020-04-08-9.1-Andreew,Milan.aux" 1587449498 1159 204a9def113e49956a01ecd833cfa613 ""
-  "2020-04-08-9.1-Andreew,Milan.out" 1587449498 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "2020-04-08-9.1-Andreew,Milan.tex" 1587449496 2461 5ba2e1a15d2339920afb27ffc57459b7 ""
+  "2020-04-08-9.1-Andreew,Milan.aux" 1587450151 1293 d82fde23c75e078656769d9478a1ba23 ""
+  "2020-04-08-9.1-Andreew,Milan.out" 1587450151 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "2020-04-08-9.1-Andreew,Milan.tex" 1587450149 2709 6bd4f87189d363279364346d5adc92e0 ""
   (generated)
   "2020-04-08-9.1-Andreew,Milan.log"
   "2020-04-08-9.1-Andreew,Milan.out"
